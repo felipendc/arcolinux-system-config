@@ -7,4 +7,4 @@ Target = filesystem
 [Action]
 Description = Add VicyosLinux specific config
 When = PostTransaction
-Exec = /bin/sh -c "cp /usr/lib/os-release-arcolinux /usr/lib/os-release"
+Exec = /bin/sh -c "cp /usr/lib/os-release-vicyoslinux /usr/lib/os-release"
