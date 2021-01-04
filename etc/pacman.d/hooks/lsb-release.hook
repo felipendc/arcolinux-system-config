@@ -5,6 +5,6 @@ Type = Package
 Target = lsb-release
 
 [Action]
-Description = Add ArcoLinux specific config
+Description = Add VicyosLinux specific config
 When = PostTransaction
-Exec = /bin/sh -c "sed -i -e s'?^DISTRIB_ID=.*$?DISTRIB_ID=ArcoLinux?' -e s'?^DISTRIB_DESCRIPTION=.*$?DISTRIB_DESCRIPTION=\"ArcoLinux\"?' /etc/lsb-release"
+Exec = /bin/sh -c "sed -i -e s'?^DISTRIB_ID=.*$?DISTRIB_ID=VicyosLinux?' -e s'?^DISTRIB_DESCRIPTION=.*$?DISTRIB_DESCRIPTION=\"VicyosLinux\"?' /etc/lsb-release"
