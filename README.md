@@ -1,1 +1,1 @@
-# ArcoLinux-system-config adapted for VicosLinux
+# ArcoLinux-system-config adapted for VicyosLinux
