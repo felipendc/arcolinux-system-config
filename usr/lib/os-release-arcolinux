@@ -1,0 +1,9 @@
+NAME=VicyosLinux
+ID=vicyoslinux
+ID_LIKE=arch	
+BUILD_ID=rolling	
+ANSI_COLOR="0;36"	
+HOME_URL=""	
+SUPPORT_URL=""	
+BUG_REPORT_URL=""	
+LOGO=arcolinux-hello
